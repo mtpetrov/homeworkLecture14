@@ -1,0 +1,21 @@
+Sign Up Screen:
+xpath
+        //img[@id='homeIcon']
+        //a[@id='nav-link-home']
+        //a[@id='nav-link-login']
+        //input[@name = 'username']
+        //input[@type='email']
+        //input[@name = 'password']
+        //input[@name = 'verify-password']
+        //button[@id = 'sign-in-button']
+
+        css
+
+        [id="homeIcon"]
+        [id="nav-link-home"]
+        [id="nav-link-login"]
+        [name="username"]
+        [type="email"]
+        [id="defaultRegisterFormPassword"]
+        [id="defaultRegisterPhonePassword"]
+        [id="sign-in-button"]
